@@ -11,10 +11,9 @@ This project demonstrates strong fundamentals in **financial analysis**, **data 
 
 ### 📁 P&L Statement by Month - https://github.com/prajwal-555/Excel-Business-Intelligence-AtliQ-Hardwares-Finance-Performance-Analytics-Report/blob/main/P%26L%20Statement%20by%20Month.pdf
 
-### 📁 P&L Statement by Market - [https://github.com/prajwal-555/-Excel-Business-Intelligence-AtliQ-Hardwares-Finance-Performance-Analytics-Report/blob/main/P%26L Statement by Market.pdf](https://github.com/prajwal-555/-Excel-Business-Intelligence-AtliQ-Hardwares-Finance-Performance-Analytics-Report/blob/main/P%26L%20Statement%20by%20Market.pdf)
+### 📁 P&L Statement by Market - https://github.com/prajwal-555/Excel-Business-Intelligence-AtliQ-Hardwares-Finance-Performance-Analytics-Report/blob/main/P%26L%20Statement%20by%20Market.pdf
 
-### 📁 Gross Margin% by Quarters - [https://github.com/prajwal-555/-Excel-Business-Intelligence-AtliQ-Hardwares-Finance-Performance-Analytics-Report/blob/main/Gross Margin%25 by Quarters.pdf](https://github.com/prajwal-555/-Excel-Business-Intelligence-AtliQ-Hardwares-Finance-Performance-Analytics-Report/blob/main/Gross%20Margin%25%20by%20Quarters.pdf)
-
+### 📁 Gross Margin% by Quarters - https://github.com/prajwal-555/Excel-Business-Intelligence-AtliQ-Hardwares-Finance-Performance-Analytics-Report/blob/main/Gross%20Margin%25%20by%20Quarters.pdf
 ---
 
 ## 📌 Table of Contents
