@@ -9,7 +9,7 @@ This project demonstrates strong fundamentals in **financial analysis**, **data 
 ## 🚀 Finance Analytics Report
 ### 📁 P&L Statement by Fiscal Year - (https://github.com/prajwal-555/-Excel-Business-Intelligence-AtliQ-Hardwares-Finance-Performance-Analytics-Report/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
 
-### 📁 P&L Statement by Month - [https://github.com/prajwal-555/-Excel-Business-Intelligence-AtliQ-Hardwares-Finance-Performance-Analytics-Report/blob/main/P%26L Statement by Month.pdf](https://github.com/prajwal-555/-Excel-Business-Intelligence-AtliQ-Hardwares-Finance-Performance-Analytics-Report/blob/main/P%26L%20Statement%20by%20Month.pdf)
+### 📁 P&L Statement by Month - https://github.com/prajwal-555/Excel-Business-Intelligence-AtliQ-Hardwares-Finance-Performance-Analytics-Report/blob/main/P%26L%20Statement%20by%20Month.pdf
 
 ### 📁 P&L Statement by Market - [https://github.com/prajwal-555/-Excel-Business-Intelligence-AtliQ-Hardwares-Finance-Performance-Analytics-Report/blob/main/P%26L Statement by Market.pdf](https://github.com/prajwal-555/-Excel-Business-Intelligence-AtliQ-Hardwares-Finance-Performance-Analytics-Report/blob/main/P%26L%20Statement%20by%20Market.pdf)
 
