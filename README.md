@@ -101,14 +101,14 @@ This structure enables fast slicing, filtering, and scalable analysis using Pivo
 
 ## 📐 Key Metrics (DAX)
 Key measures created using DAX include:
-- 💰 Net Sales - SUM(fact_sales_monthly[net_sales_amount])
-- 💰 Net Sales 2019 - CALCULATE([Net Sales],dim_date[FY]="2019")
-- 💰 Net Sales 2019 - CALCULATE([Net Sales],dim_date[FY]="2020")
-- 💰 Net Sales 2019 - CALCULATE([Net Sales],dim_date[FY]="2021")
-- 🧾 COGS - SUM(fact_sales_monthly[total_cogs])
-- 📈 Gross Margin - [Net Sales]-[COGS]
-- 📊 Gross Margin % - DIVIDE([Gross Margin],[Net Sales],0)
-- 📅 21 vs 20 % - DIVIDE([Net Sales 21],[Net Sales 20],0)
+- 💰 Net Sales = SUM(fact_sales_monthly[net_sales_amount])
+- 💰 Net Sales 2019 = CALCULATE([Net Sales],dim_date[FY]="2019")
+- 💰 Net Sales 2019 = CALCULATE([Net Sales],dim_date[FY]="2020")
+- 💰 Net Sales 2019 = CALCULATE([Net Sales],dim_date[FY]="2021")
+- 🧾 COGS = SUM(fact_sales_monthly[total_cogs])
+- 📈 Gross Margin = [Net Sales]-[COGS]
+- 📊 Gross Margin % = DIVIDE([Gross Margin],[Net Sales],0)
+- 📅 21 vs 20 % = DIVIDE([Net Sales 21],[Net Sales 20],0)
 
 
 All metrics dynamically respond to filters across time periods and markets.
